@@ -1,8 +1,13 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kadenbcampbell/paste-replace-en-space.git"
+  },
   "name": "paste-replace-en-space",
-  "displayName": "paste-replace-en-space",
-  "description": "Replaces \\u2002 (En Spaces) with a normal space character when pasting",
-  "version": "0.0.1",
+  "displayName": "Replace En Spaces on Paste",
+  "description": "Replaces \\u2002 (en spaces) with a normal space character when pasting",
+  "version": "1.0.0",
+  "publisher": "kadencampbell",
   "engines": {
     "vscode": "^1.81.0"
   },

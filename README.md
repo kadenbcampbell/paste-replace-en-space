@@ -17,12 +17,3 @@ This VS Code extension automatically replaces the En Space character (`\u2002`) 
 ## Usage
 
 Simply paste content into your VS Code editor as you normally would. If the content contains any En Space characters, they'll be automatically replaced with standard space characters.
-
-## Contributing
-
-We welcome contributions! If you find a bug or have suggestions for improvements, please open an issue.
-
-## License
-
-MIT License. See the `LICENSE` file for more details.
-
